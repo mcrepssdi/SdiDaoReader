@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SdiDaoReader", "SdiDaoReader\SdiDaoReader.csproj", "{56E63C98-EDAB-40AE-84F5-6BEAF59A6D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56E63C98-EDAB-40AE-84F5-6BEAF59A6D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E63C98-EDAB-40AE-84F5-6BEAF59A6D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E63C98-EDAB-40AE-84F5-6BEAF59A6D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E63C98-EDAB-40AE-84F5-6BEAF59A6D31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
